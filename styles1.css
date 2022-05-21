@@ -1,0 +1,70 @@
+.row-header{
+    margin:0px auto;
+    padding: 0px auto;
+}
+.row-content{
+    margin:0px auto;
+    padding:50px 0px 50px 0px;
+    border-bottom:1px ridge;
+    min-height:400px;
+}
+.footer{
+    background-color: #D1C4E9;
+    margin:0px auto;
+    padding: 2px 0px 2px 0px;
+}
+.jumbotron{
+    padding: 30px 10px;
+    margin: 10px auto;
+    background: #3d6f6f;
+    color:rgb(245, 248, 250);
+}
+.address{
+    font-size: 80%;
+    margin:0px;
+    color: #0f0f0f;
+}
+body{
+   padding: 50px 0px 0px 0px;
+   z-index: 0;
+   background-color: #666868;
+}
+.navbar-dark{
+    background-color: rgb(11, 86, 105);
+}
+#buttonRegister{
+    padding: 5px 30px 5px 20px;
+}
+.tab-content{
+    border-left:1px solid #ddd;
+    border-right:1px solid #ddd;
+    border-bottom:1px solid #ddd;
+    padding:10px;
+}
+.carousel{
+    background: #f3f5f7;
+}
+.carousel-item{
+    height: 100%;
+    width:100%;
+}
+/* .carousel-item{
+    position:absolute;
+    top:0;
+    left:0;
+    min-height:300px;
+} */
+.modal-title {
+    color: white;
+  }
+.modal-header {
+    background-color:black; 
+}
+.modal-dialog {
+    color: #000000;
+}
+#carouselButton{
+    right:0px;
+    position:absolute;
+    bottom:0px;
+}
